@@ -22,7 +22,10 @@ The pipeline ensures:
 - ✅ Clean, validated CDRs stored in a relational database  
 - ⚙️ Reliable automation of workflows with SSIS  
 - 📝 Full audit trail for rejected records  
-- 📈 Scalable foundation for telecom data analysis and reporting  
+- 📈 Scalable foundation for telecom data analysis and reporting
+
+  <img width="1536" height="253" alt="image" src="https://github.com/user-attachments/assets/e2e9e4c7-87e7-4879-acd4-8d25ccc8738b" />
+
 
 ---
 
