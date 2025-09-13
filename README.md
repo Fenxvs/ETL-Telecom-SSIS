@@ -38,8 +38,7 @@ The pipeline ensures:
 
 ---
 
-<img width="598" height="558" alt="image" src="https://github.com/user-attachments/assets/25e8230a-a40b-4a7c-9546-64b963edcba9" />
-<img width="490" height="643" alt="image" src="https://github.com/user-attachments/assets/5104ea0c-c22e-4b4c-a8c5-27de3072a3c5" />
+<img width="598" height="558" alt="image" src="https://github.com/user-attachments/assets/25e8230a-a40b-4a7c-9546-64b963edcba9" /> <img width="490" height="643" alt="image" src="https://github.com/user-attachments/assets/5104ea0c-c22e-4b4c-a8c5-27de3072a3c5" />
 
 ## 🚀 Skills Demonstrated  
 
