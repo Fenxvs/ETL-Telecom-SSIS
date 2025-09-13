@@ -37,8 +37,10 @@ The pipeline ensures:
 - 🏗️ **SQL Server** – relational database for storing processed data  
 
 ---
-
-<img width="598" height="558" alt="image" src="https://github.com/user-attachments/assets/25e8230a-a40b-4a7c-9546-64b963edcba9" /> <img width="490" height="643" alt="image" src="https://github.com/user-attachments/assets/5104ea0c-c22e-4b4c-a8c5-27de3072a3c5" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/25e8230a-a40b-4a7c-9546-64b963edcba9" alt="SSIS Data Flow Task - Part 1" width="450"/>
+<img src="https://github.com/user-attachments/assets/5104ea0c-c22e-4b4c-a8c5-27de3072a3c5" alt="SSIS Data Flow Task - Part 2" width="368"/>
+</div>
 
 ## 🚀 Skills Demonstrated  
 
